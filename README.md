@@ -11,28 +11,28 @@ Our project tries to address this issue at a small scale, by assigning seats so 
 The prototype that we have developed will be placed on the guard’s desk, and will be accessible to him for operating purposes.
 This is how the system will look like-
 
-![alt text](image.png)
+![alt text](./Media/image.png)
 
 Here, we show the step-by-step method that one has to follow to get the desired number of seats, and then the way to deallocate them once leaving:
 According to preference, one is given a choice to select the lab depending on the location one is comfortable sitting in. Suppose, Lab 1 is clicked.
 
-![alt text](image-1.png)
+![alt text](./Media/image-1.png)
 
 Then, one has to select the number of seats required in that particular lab. Suppose, we select 2.
 
-![alt text](image-2.png)
+![alt text](./Media/image-2.png)
 
 Then, the ENTER tab in line with the Allocate button has to be pressed. The seats displayed in front of Lab 1 will change to 28 in this case. Seat has been allocated now.
 
-![alt text](image-3.png)
+![alt text](./Media/image-3.png)
 
 To deallocate the seats, the guard will enter the seat numbers told by students in Deallocate Seat Input Tab. Suppose, one enters 201, 202, 203 (with any delimiter for eg - ‘ ’, /, ‘,’, etc.). It’s understood that by 201, one refers to Lab 2 and Seat No 1. 
 
-![alt text](image-4.png)
+![alt text](./Media/image-4.png)
 
 After pressing Enter, the seats (here, 201, 202, 203) will be deallocated. In our case, no of vacant seats for Lab 2 changed to 30 from 27, once they were freed.
 
-![alt text](image-5.png)
+![alt text](./Media/image-5.png)
 
 ## End Product
 User interface will display lab numbers along with the vacant seats in each lab. Other buttons for allocation and deallocation of seats will also be there.
